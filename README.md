@@ -1,2 +1,3 @@
-# bikehikepredictionusinglinear
+ # bikehikepredictionusinglinear
 some exercises about the pandas, this is a bike hike prediction model that has predicted the model using linear regression , i have used linear model to predict this ..
+Soo this is a bike hike prediction , i randomly downloaded a dataset from google, and i first preprocessed the data , as there was not any null values there was no use of onehotencoder and fit and transform methods , i separated the training and testing data ,and plotted the training and testing data using scatter plot by importing matplotlib libraries, and plotted the training datasets , then fitted the linear regression in the x_train and y_train and got the straight line .. then it was a best fit line then i calculated the r2_score and accuracy which was 94 percent , preety good accuracy ..
